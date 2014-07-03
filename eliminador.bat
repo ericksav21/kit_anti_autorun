@@ -65,3 +65,4 @@ if "%1"=="" (
 
 :fin
 pause
+exit
